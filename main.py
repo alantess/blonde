@@ -108,7 +108,7 @@ def CNNModel():
     model = Model(inputs = input_img, outputs = output)
     return model
 
-
+# Model Description
 # model = CNNModel()
 # model.summary()
 # model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
