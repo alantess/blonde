@@ -10,7 +10,7 @@ import time
 from IPython import display
 import math
 
-# Load the dataset
+# Load the dataset - Specify Your Directory
 data_dir = 'D:\Downloads\Datasets'
 
 dataset, info = tfds.load('celeb_a', with_info=True, data_dir=data_dir)
