@@ -1,4 +1,4 @@
-# Blonde hair detector
+# Blonde 
 This ia a CNN model used to detect if a human has blonde hair. 
 
 This model utilizes the celeb_a dataset from tensorflow dataset. 
